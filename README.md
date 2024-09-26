@@ -2,7 +2,7 @@
 ## Data Cleaning Preview
 
 ```sql
-SQL PROJECT DATA CLEANING
+Data Cleaning
 -- Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 -- Display the raw layoffs table to understand the data structure
